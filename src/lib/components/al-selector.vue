@@ -354,7 +354,7 @@ export default {
             } else if (Array.isArray(this.disabled)) {
                 let i = 0;
                 let isDis = false;
-                while (this.disabled[i]) {
+                while (typeof this.disabled[i] === typeof level) {
                     if (this.disabled[i] === level) {
                         isDis = true;
                         break;
