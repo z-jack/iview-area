@@ -91,10 +91,10 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
-area-data@^5.0.6:
-  version "5.0.6"
-  resolved "https://registry.yarnpkg.com/area-data/-/area-data-5.0.6.tgz#c381c3f88ff9e1050accd07549d206fce2a28d13"
-  integrity sha512-QxLoA+823xXKyhw5S3750I9TToki0OS42HU9ol3rCOsCXfkjtl8RtQ/eoj0cK0Levn4//oEM05FmMumfw/HIlg==
+area-data@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/area-data/-/area-data-3.1.2.tgz#39a93b119d902ec4107f8c8eb3c84093ed4f60ec"
+  integrity sha512-9q8HtFRYn3HBsEwBSZUHvVjpLmh8E8c7cSRjo7p38iyN9JTdPDAGWHB6h9hwII04aDWyJjPRF79nC3W68xf6kw==
 
 argparse@^1.0.7:
   version "1.0.10"
